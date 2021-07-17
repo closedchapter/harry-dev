@@ -18,10 +18,10 @@ const Content = () => {
         <div>📝 CV Builder</div>
       </div>
       <div className='text-base font-medium leading-snug mb-3'>
-        CV Builder is a web app that people can use to create amazing-looking CV's that will make them stand-out to employers, amongst other candidates.
+      CV Builder is a tool that people can use to create amazing-looking CV's that will make them stand-out to employers, amongst other candidates.
       </div>
       <div className='text-base font-medium leading-snug mb-3'>
-        Alot of young people don't have or don't know how to make a CV. This app should make it easier for thousands of young teens to create and have professional-looking CV's.
+      Alot of young people don't have or don't know how to make a CV. This app should make it easier for thousands of young teens to create and have professional-looking CV's.
       </div>
     </div>
   )

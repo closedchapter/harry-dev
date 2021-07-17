@@ -41,6 +41,9 @@ const Dashboard = () => {
           Bare with me as the website is quite - sparse, but it is always being updated. For now, have a look at <b>my upcoming projects!</b>
         </div>
         <div className='mb-7'><CTA /></div>
+        <div className='text-sm font-medium opacity-40 leading-snug mb-2'>
+          The most recent update was Sunday 18th of July @ 12:31am
+        </div>
       </div>
     </div>
   )
