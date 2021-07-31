@@ -1,0 +1,11 @@
+{
+    "projects":[
+        {
+            "link":"https://uk-noir.vercel.app",
+            "image":"noir.png",
+            "progress":50,
+            "headline":"Noir Marketplace",
+            "description":"Noir is the platform for instagram-based business owners to market their service to clients."
+        }
+    ]
+}
